@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Snapjaw Scavenger",
+        "av": 0,
+        "hp": 3
+    },
+    {
+        "name": "Snapjaw Warlord",
+        "av": 2,
+        "hp": 20
+    },
+    {
+        "name": "Snapjaw Brute",
+        "av": 1,
+        "hp": 25
+    },
+    {
+        "name": "Knollworm",
+        "av": 3,
+        "hp": 20
+    },
+    {
+        "name": "Eyeless Crab",
+        "av": 7,
+        "hp": 30
+    },
+    {
+        "name": "Slugsnout",
+        "av": 3,
+        "hp": 25
+    },
+    {
+        "name": "Novice of the Sightless Way",
+        "av": 0,
+        "hp": 8
+    },
+    {
+        "name": "Templar Squire",
+        "av": 9,
+        "hp": 25
+    },
+    {
+        "name": "Green/Brown/Black Jell",
+        "av": 3,
+        "hp": 25
+    },
+    {
+        "name": "Slog of the Cloaca",
+        "av": 5,
+        "hp": 150
+    },
+    {
+        "name": "Goatfolk Bully",
+        "av": 7,
+        "hp": 60
+    },
+    {
+        "name": "Goatfolk Sower",
+        "av": 5,
+        "hp": 30
+    },
+    {
+        "name": "Goatfolk Yurtwarden",
+        "av": 6,
+        "hp": 30
+    },
+    {
+        "name": "Goatfolk Shaman",
+        "av": 6,
+        "hp": 50
+    },
+    {
+        "name": "Mamon Souldrinker",
+        "av": 6,
+        "hp": 115
+    },
+    {
+        "name": "Cragmensch Boulderer/Brainer/Luminary",
+        "av": 15,
+        "hp": 25
+    },
+    {
+        "name": "Gyrohumor",
+        "av": 9,
+        "hp": 100
+    },
+    {
+        "name": "Snailmother",
+        "av": 13,
+        "hp": 95
+    },
+    {
+        "name": "Eyeless King Crab",
+        "av": 9,
+        "hp": 70
+    },
+    {
+        "name": "Laser Turret",
+        "av": 9,
+        "hp": 45
+    },
+    {
+        "name": "Rimewyk",
+        "av": 6,
+        "hp": 100
+    },
+    {
+        "name": "Jotun, Who Parts Limbs",
+        "av": 6,
+        "hp": 165
+    },
+    {
+        "name": "Fjorn-Kosef, Who Knits the Icy Lattice",
+        "av": 6,
+        "hp": 185
+    },
+    {
+        "name": "Haggabah, Who Plies the Umbral Path",
+        "av": 6,
+        "hp": 155
+    },
+    {
+        "name": "Saad Amus, the Sky-Bear",
+        "av": 6,
+        "hp": 350
+    },
+    {
+        "name": "Gyre Wight of Bethsaida",
+        "av": 1,
+        "hp": 45
+    },
+    {
+        "name": "Knight Templar",
+        "av": 11,
+        "hp": 120
+    },
+    {
+        "name": "Gunner-knight Templar",
+        "av": 4,
+        "hp": 90
+    },
+    {
+        "name": "Knight Commander of the Holy Temple",
+        "av": 11,
+        "hp": 100
+    },
+    {
+        "name": "Conservator",
+        "av": 11,
+        "hp": 250
+    },
+    {
+        "name": "Crypt Sitter",
+        "av": 8,
+        "hp": 250
+    },
+    {
+        "name": "Deep Slumberling",
+        "av": 7,
+        "hp": 150
+    },
+    {
+        "name": "Stat Sap",
+        "av": 2,
+        "hp": 25
+    },
+    {
+        "name": "Purple Jell",
+        "av": 5,
+        "hp": 100
+    },
+    {
+        "name": "Gelatinous Cupola",
+        "av": 7,
+        "hp": 110
+    },
+    {
+        "name": "Ogre Ape",
+        "av": 7,
+        "hp": 90
+    },
+    {
+        "name": "Svardym Jut",
+        "av": 4,
+        "hp": 120
+    },
+    {
+        "name": "Svardym Eld",
+        "av": 4,
+        "hp": 90
+    },
+    {
+        "name": "Galgal",
+        "av": 15,
+        "hp": 400
+    },
+    {
+        "name": "Memory Eater",
+        "av": 9,
+        "hp": 150
+    },
+    {
+        "name": "Quatravolt Glider",
+        "av": 8,
+        "hp": 140
+    },
+    {
+        "name": "Enigma Snail",
+        "av": 10,
+        "hp": 180
+    },
+    {
+        "name": "Kaleidoslug",
+        "av": 8,
+        "hp": 300
+    },
+    {
+        "name": "Great Magma Crab",
+        "av": 10,
+        "hp": 165
+    },
+    {
+        "name": "Gamma Moth",
+        "av": 8,
+        "hp": 250
+    },
+    {
+        "name": "Zero Jell",
+        "av": 8,
+        "hp": 400
+    },
+    {
+        "name": "Unimax",
+        "av": 10,
+        "hp": 250
+    },
+    {
+        "name": "Dawning Ape",
+        "av": 12,
+        "hp": 300
+    },
+    {
+        "name": "Leering Stalker",
+        "av": 25,
+        "hp": 800
+    },
+    {
+        "name": "Chrome Pyramid",
+        "av": 35,
+        "hp": 4000
+    },
+    {
+        "name": "Star Kraken",
+        "av": 16,
+        "hp": 2000
+    },
+    {
+        "name": "Grazing Cherub",
+        "av": 12,
+        "hp": 500
+    },
+    {
+        "name": "Oboroqoru, Ape God",
+        "av": 14,
+        "hp": 880
+    },
+    {
+        "name": "Temple Mecha Mk Ia/Ib",
+        "av": 15,
+        "hp": 900
+    },
+    {
+        "name": "Temple Mecha Mk II",
+        "av": 20,
+        "hp": 900
+    },
+    {
+        "name": "Girsh Nephilim",
+        "av": 12,
+        "hp": 4000
+    }
+]
