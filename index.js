@@ -168,7 +168,7 @@ let blades = [
     }
 ];
 
-let strengthModifiers = [0, 2, 5, 7, 10, 12, 15];
+let strengthModifiers = [0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
 
 let enemies = JSON.parse(fs.readFileSync('enemies.json', 'utf8'));
 
