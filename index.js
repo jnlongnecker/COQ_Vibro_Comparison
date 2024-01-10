@@ -374,7 +374,9 @@ function runBladeSimulation(enemy, strMod) {
 
             // Long blades get an additional +2 PV on crit on top of the normal +1 PV
             let critBonus = isCrit ? 3 : 0;
-            let pens = RollDamagePenetrations(enemy.av, strMod + weapon.penBonus + critBonus, weapon.penCap + critBonus);
+
+            // Reduce 4 from the weapon pen cap since it's 4 more than what it should be (pulled numbers from wiki)
+            let pens = RollDamagePenetrations(enemy.av, strMod + weapon.penBonus + critBonus, weapon.penCap - 4 + critBonus);
             if (isCrit) {
                 pens += 1;
             }
