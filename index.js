@@ -273,7 +273,8 @@ function calculateVibroStats() {
                     if (modData[weapon].averageHitsToKill < vibWep.averageHitsToKill) {
                         if (bladeComparison[weapon] == "Never") {
                             let mod = modData.name.split("atMod")[1];
-                            bladeComparison[weapon] = `At str mod ${mod}`;
+                            let comparedHits = modData[weapon].averageHitsToKill.toFixed(3);
+                            bladeComparison[weapon] = `At str mod ${mod} (${comparedHits} average hits)`;
                         }
 
                         // If it's the first one (mod 0), the weapon always beats the vibro weapon
@@ -291,8 +292,12 @@ function calculateVibroStats() {
                 }
             }
 
+            let enemyData = enemies.filter(e => e.name == enemy);
+
             // Write the data to the object
             vibroStats[vibWep.name]["against"][enemy] = {
+                "Enemy AV": enemyData[0].av,
+                "Enemy HP": enemyData[0].hp,
                 "Average Simulated Damage": vibWep.simulatedAverageDamage,
                 "Average Hits to Kill": vibWep.averageHitsToKill,
                 "Average Penetrations per Hit": vibWep.averagePenetrationsPerHit,
